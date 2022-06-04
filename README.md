@@ -6,6 +6,7 @@ Forked to provide instructions, which are missing on the original repo, and mino
 - Pyton binaries must be added to `PATH`
 
 ## Instructions
-1. Install dependencies from `requirements.txt` (to be merged into the script)
-2. Invoke `python lastpass-authenticator-export.py -u EMAIL -o OTP_VALUE
-3. See folder `export`
+1. Install dependencies from `requirements.txt` (to be merged into the script)  
+  Alternatively: `pip install PACKAGE_NAME`
+3. Invoke `python lastpass-authenticator-export.py -u EMAIL -o OTP_VALUE
+4. See folder `export`
